@@ -1,0 +1,2 @@
+# Building-a-Deep-Learning-Neural-Network-Step-by-Step
+ Implementation all the building blocks of a Neural Network .  - Develop an intuition of the over all structure of a neural network.  - functions: ( forward propagation, backward propagation, logistic loss, cost function,update parameters prediction) that would help to decompose the code and ease the process of building a neural network.  - Initialize/update parameters according  desired structure.Learnt about various parameters and gradients and functions to build them
